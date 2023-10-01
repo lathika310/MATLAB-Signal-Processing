@@ -1,3 +1,3 @@
 # MATLAB-Signal-Processing
 
-(IN-PROGRESS)
+(COURSE IN-PROGRESS)
